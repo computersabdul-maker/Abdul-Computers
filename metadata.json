@@ -1,0 +1,8 @@
+{
+  "name": "Mamoo Computers – ماموں کمپیوٹرز",
+  "description": "Premium Pakistani computer hardware, laptops, components, printers, and networking e-commerce store in English and Urdu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
